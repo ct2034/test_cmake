@@ -1,4 +1,4 @@
 test_cmake
 ==========
 
-Testing of Cmkae / rostest
+Testing of Cmake / rostest
